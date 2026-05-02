@@ -1,6 +1,6 @@
 # Hi, I'm Rubén Gil 👋
 
-**Data Analyst | Biotech & Life Sciences | Turning data into clear business decisions**
+**Data Analyst | Biotech & Life Sciences | Communicator**
 
 ---
 
