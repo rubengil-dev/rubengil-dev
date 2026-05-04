@@ -1,5 +1,5 @@
 <h1 align = "left"> Hey there! I'm Rubén Gil </h1>
-<p align = "center"><strong> Data Analyst | Biotech & Life Sciences | Communicator </p>
+<p align="center"><b> Data Analyst | Biotech & Life Sciences | Communicator </b></p>
 <p align="center">
   <a href = "https://ruben-gil.super.site/"> 🌐 WebPage</a>
   &nbsp;&nbsp;
