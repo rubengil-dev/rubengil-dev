@@ -1,25 +1,27 @@
-# Hi, I'm Rubén Gil 👋
-
-**Data Analyst | Biotech & Life Sciences | Communicator**
+<h1 align = "left" > Hey there! I'm Rubén Gil </h1>
+<p align = "center" > **Data Analyst | Biotech & Life Sciences | Communicator** </p>
+<p align="center">
+  <a href = "[https://ruben-gil.super.site/" > 🌐 WebPage</a>
+  &nbsp;&nbsp;
+  <a href= "https://linkedin.com/in/rubengilgamero" >💼 LinkedIn</a>
+</p>
 
 ---
 
-Biochemist by training, data analyst by choice.
+### How did I get here?
 
-Alvin Toffler stated that the illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn. That premise has shaped my entire career.
+It all started 4 years ago, when I chose to study Biochemistry because I was obsessed with understanding how the human body works in order to optimize my health and sports performance. But 4 years in, I knew two things for certain: pipettes weren't for me, and I wanted to do something where my insights can turn into action in days, not years.
 
-I started in Biochemistry, driven by a passion for understanding the human body. When I realized the lab wasn't my place, I shifted — developing skills in Communication, Sales, and Public Speaking. Eventually, I found my path in Data Science: staying connected to the biotech world, but from a perspective where I truly thrive.
+So I did what any ‘*self-respecting*’ scientist would do: I enrolled in a Master's in Communication and Public Speaking. Because if you're going to pivot, you’d better know how to sell the pivot.
 
-Currently completing a **Master's in Data Science**, building real projects along the way.
+It turns out the same brain that loves dissecting endocrine or metabolic systems, also loves dissecting datasets, optimizing processes, and breaking things down until they tell their own story.
+
+**To sum up**: I'm a rare breed of lab rat who actually enjoys public speaking and technology.
+
+**Not your typical nerd ;)**
 
 ---
 
 ## 🛠️ Stack
 
-**Languages:** Python · R · SQL · VBA  
-**Tools:** Excel · Power BI  
-**Automation:** Make · n8n  
-
-## 📬 Let's connect
-
-[LinkedIn](https://www.linkedin.com/in/rubengilgamero/)
+`Python` · `R` · `SQL` · `Power BI` · `VBA` · `Excel` · `Make` · `n8n`
