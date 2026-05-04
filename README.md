@@ -1,9 +1,9 @@
-<h1 align = "left" > Hey there! I'm Rubén Gil </h1>
-<p align = "center" > **Data Analyst | Biotech & Life Sciences | Communicator** </p>
+<h1 align = "left"> Hey there! I'm Rubén Gil </h1>
+<p align = "center"><strong> Data Analyst | Biotech & Life Sciences | Communicator </p>
 <p align="center">
-  <a href = "https://ruben-gil.super.site/" > 🌐 WebPage</a>
+  <a href = "https://ruben-gil.super.site/"> 🌐 WebPage</a>
   &nbsp;&nbsp;
-  <a href= "https://linkedin.com/in/rubengilgamero" >💼 LinkedIn</a>
+  <a href= "https://linkedin.com/in/rubengilgamero"> 💼 LinkedIn</a>
 </p>
 
 ---
